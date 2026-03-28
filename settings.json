@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "spotserv.ender-zone.com",
+    "ip": "spotserv.ender-zone.co",
     "port": 14217,
     "version": "",
     "try-creative": false
