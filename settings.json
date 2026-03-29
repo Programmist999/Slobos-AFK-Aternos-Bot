@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "spotserv.ender-zone.com",
-    "port": ,
+    "port": "",
     "version": "1.21.4",
     "try-creative": false
   },
